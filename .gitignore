@@ -123,7 +123,7 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
+# .venv IT WILL BE UPLOADE TO GIT BECAUSE THE TEST REQUIRES IT
 env/
 venv/
 ENV/
